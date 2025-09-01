@@ -3,8 +3,8 @@ package Group7;
 import java.util.ArrayList;
 
 /*
-@author Mohammad Fares 1088672
-        Omar Mohammad 1088546
+@author Omar Mohammad 1088546
+        Mohammad Fares 1088672
         Hadi Albanna 1088677
  */
 // Abstract class representing a generic car
@@ -122,3 +122,4 @@ public abstract class Car_G7 {
     
 
 }
+
