@@ -3,8 +3,8 @@ package Group7;
 import java.util.ArrayList;
 
 /*
-@author Mohammad Fares 1088672
-        Omar Mohammad 1088546
+@author Omar Mohammad 1088546
+        Mohammad Fares 1088672
         Hadi Albanna 1088677
  */
 // Interface Manager which defines methods to manage car objects (CRUD operations)
@@ -82,3 +82,4 @@ interface Manager_G7{
     // Calculates and returns the total price of all Trucks
     int priceOfTrucks();
 }
+
