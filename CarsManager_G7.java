@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Scanner;
 
 /*
-@author Mohammad Fares 1088672
-        Omar Mohammad 1088546
+@author Omar Mohammad 1088546 
+        Mohammad Fares 1088672
         Hadi Albanna 1088677
  */
 // CarsManager class implements Manager interface to manage a collection of Car objects
@@ -369,3 +369,4 @@ public void addFromFile(String filePath) {
         return total; // Sum and return prices of all Trucks
     }
 }
+
