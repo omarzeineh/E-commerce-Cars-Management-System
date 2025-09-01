@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
-@author Mohammad Fares 1088672
-        Omar Mohammad 1088546
+@author Omar Mohammad 1088546
+        Mohammad Fares 1088672
         Hadi Albanna 1088677
  */
 public class EcommerceCarMS_G7 {
@@ -372,3 +372,4 @@ public class EcommerceCarMS_G7 {
         }
     }
 }
+
